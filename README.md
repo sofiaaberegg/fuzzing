@@ -10,3 +10,7 @@
 - [[Segmentation fault] Out-of-bounds read in gf_bt_loader_run_intern](https://github.com/gpac/gpac/issues/3163)
 - [[Segmentation fault] Out-of-bounds read in gf_bt_get_next](https://github.com/gpac/gpac/issues/3165)
 - [[Segmentation fault] Out-of-bounds read in gf_bt_check_code](https://github.com/gpac/gpac/issues/3166)
+- [[Segmentation fault] Heap-based buffer overflow in gf_bt_check_line](https://github.com/gpac/gpac/issues/3171)
+- [[Segmentation fault] Out-of-bounds read in gf_bt_check_line](https://github.com/gpac/gpac/issues/3172)
+- [[Segmentation fault] Out-of-bounds read in gf_list_get](https://github.com/gpac/gpac/issues/3173)
+- [[Segmentation fault] Multiple invalid free() calls in load_bt_done](https://github.com/gpac/gpac/issues/3174)
