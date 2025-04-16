@@ -14,3 +14,8 @@
 - [[Segmentation fault] Out-of-bounds read in gf_bt_check_line](https://github.com/gpac/gpac/issues/3172)
 - [[Segmentation fault] Out-of-bounds read in gf_list_get](https://github.com/gpac/gpac/issues/3173)
 - [[Segmentation fault] Multiple invalid free() calls in load_bt_done](https://github.com/gpac/gpac/issues/3174)
+- [[Segmentation fault] Out-of-bounds read in gf_xml_sax_parse_intern](https://github.com/gpac/gpac/issues/3176)
+- [[Segmentation fault] Out-of-bounds read in gf_isom_parse_movie_boxes_internal](https://github.com/gpac/gpac/issues/3177)
+- [[Segmentation fault] Out-of-bounds read in on_m2ts_dump_event](https://github.com/gpac/gpac/issues/3179)
+- [[Segmentation fault] Out-of-bounds read in gf_fwrite](https://github.com/gpac/gpac/issues/3184)
+- [[Segmentation fault] Out-of-bounds read in str2ulong](https://github.com/gpac/gpac/issues/3187)
