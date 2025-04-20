@@ -21,3 +21,4 @@
 - [[Segmentation fault] Out-of-bounds read in str2ulong](https://github.com/gpac/gpac/issues/3187)
 - [[Segmentation fault] Out-of-bounds read in declare_sub_playlist](https://github.com/gpac/gpac/issues/3193)
 - [[Segmentation fault] Out-of-bounds read in gf_m2ts_process_pmt](https://github.com/gpac/gpac/issues/3197)
+- [[Segmentation fault] Out-of-bounds write in DoWrite](https://github.com/gpac/gpac/issues/3198)
