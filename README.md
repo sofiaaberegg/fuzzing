@@ -19,3 +19,5 @@
 - [[Segmentation fault] Out-of-bounds read in on_m2ts_dump_event](https://github.com/gpac/gpac/issues/3179)
 - [[Segmentation fault] Out-of-bounds read in gf_fwrite](https://github.com/gpac/gpac/issues/3184)
 - [[Segmentation fault] Out-of-bounds read in str2ulong](https://github.com/gpac/gpac/issues/3187)
+- [[Segmentation fault] Out-of-bounds read in declare_sub_playlist](https://github.com/gpac/gpac/issues/3193)
+- [[Segmentation fault] Out-of-bounds read in gf_m2ts_process_pmt](https://github.com/gpac/gpac/issues/3197)
