@@ -22,3 +22,7 @@
 - [[Segmentation fault] Out-of-bounds read in declare_sub_playlist](https://github.com/gpac/gpac/issues/3193)
 - [[Segmentation fault] Out-of-bounds read in gf_m2ts_process_pmt](https://github.com/gpac/gpac/issues/3197)
 - [[Segmentation fault] Out-of-bounds write in DoWrite](https://github.com/gpac/gpac/issues/3198)
+- [[Segmentation fault] Out-of-bounds read in gf_isom_get_media_data_size](https://github.com/gpac/gpac/issues/3199)
+- [[Segmentation fault] Conditional jump depends on uninitialized value in gf_dynstrcat](https://github.com/gpac/gpac/issues/3200)
+- [[Segmentation fault] Out-of-bounds read in gf_isom_get_jp2_config](https://github.com/gpac/gpac/issues/3202)
+- [[Segmentation fault] Out-of-bounds write in parse_attributes](https://github.com/gpac/gpac/issues/3214)
