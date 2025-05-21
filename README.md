@@ -26,3 +26,6 @@
 - [[Segmentation fault] Conditional jump depends on uninitialized value in gf_dynstrcat](https://github.com/gpac/gpac/issues/3200)
 - [[Segmentation fault] Out-of-bounds read in gf_isom_get_jp2_config](https://github.com/gpac/gpac/issues/3202)
 - [[Segmentation fault] Out-of-bounds write in parse_attributes](https://github.com/gpac/gpac/issues/3214)
+## Wireshark
+- [[Floating point exception] Integer divide by zero in ttl_next_block](https://gitlab.com/wireshark/wireshark/-/issues/20545)
+- [[Segmentation fault] Invalid memory access in peak_trc_read_packet_v1](https://gitlab.com/wireshark/wireshark/-/issues/20546)
