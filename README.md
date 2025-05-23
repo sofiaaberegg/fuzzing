@@ -29,3 +29,4 @@
 ## Wireshark
 - [[Floating point exception] Integer divide by zero in ttl_next_block](https://gitlab.com/wireshark/wireshark/-/issues/20545)
 - [[Segmentation fault] Invalid memory access in peak_trc_read_packet_v1](https://gitlab.com/wireshark/wireshark/-/issues/20546)
+- [[Segmentation fault] Global buffer overflow in peak_trc_parse](https://gitlab.com/wireshark/wireshark/-/issues/20548)
