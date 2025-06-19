@@ -32,3 +32,5 @@
 - [[Segmentation fault] Global buffer overflow in peak_trc_parse](https://gitlab.com/wireshark/wireshark/-/issues/20548)
 ## Fontconfig
 - [[Segmentation fault] Global buffer overflow in FcNameUnparseLangSet](https://gitlab.freedesktop.org/fontconfig/fontconfig/-/issues/464)
+## Jq
+- [[CVE-2025-49014] Heap use after free in f_strflocaltime](https://github.com/jqlang/jq/security/advisories/GHSA-rmjp-cr27-wpg2)
