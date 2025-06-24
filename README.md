@@ -34,3 +34,5 @@
 - [[Segmentation fault] Global buffer overflow in FcNameUnparseLangSet](https://gitlab.freedesktop.org/fontconfig/fontconfig/-/issues/464)
 ## Jq
 - [[CVE-2025-49014] Heap use after free in f_strflocaltime](https://github.com/jqlang/jq/security/advisories/GHSA-rmjp-cr27-wpg2)
+- [Stack overflow in node_min_byte_len of Oniguruma dependency](https://github.com/jqlang/jq/security/advisories/GHSA-f946-j5j2-4w5m)
+  
