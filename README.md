@@ -35,4 +35,5 @@
 ## Jq
 - [[CVE-2025-49014] Heap use after free in f_strflocaltime](https://github.com/jqlang/jq/security/advisories/GHSA-rmjp-cr27-wpg2)
 - [Stack overflow in node_min_byte_len of Oniguruma dependency](https://github.com/jqlang/jq/security/advisories/GHSA-f946-j5j2-4w5m)
-  
+## REXML (Ruby)
+- [[CVE-2025-58767] DoS condition when parsing malformed XML file](https://github.com/ruby/rexml/security/advisories/GHSA-c2f4-jgmc-q2r5)
